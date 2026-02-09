@@ -23,7 +23,11 @@ export default function Footer() {
 
         <div>
           <h4 className="text-white font-semibold mb-2">Contact</h4>
-          <p className="text-sm">info@softlynxdataworks.com</p>
+          <p className="text-sm mb-2">contactus@softlynxdataworks.com</p>
+          <address className="not-italic text-sm leading-relaxed">
+            1/110D, Pendlimarri (v), Pendlimarri, <br />
+            Cuddapah, Andhra Pradesh, India - 516216
+          </address>
         </div>
 
       </div>

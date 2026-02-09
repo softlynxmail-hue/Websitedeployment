@@ -12,6 +12,23 @@ export default function Services() {
       title: "AI & Automation",
       desc: "AI-driven workflows, chatbots, and automation solutions.",
     },
+    {
+        title: "Training & Internship Programs",
+        desc: "Upskill talent with hands-on training and real-world projects.",
+        items: [
+          "Fresher internship programs",
+          "Corporate and individual trainings on Snowflake, AWS, Python, Data Engineering & Analytics, AI & ML",
+        ],
+      },
+      {
+        title: "Managed Support & Customer Care",
+        desc: "Reliable support for data platforms and customer services.",
+        items: [
+          "Customer care & technical support",
+          "Ongoing monitoring & maintenance of data pipelines",
+          "Flexible support based on client requirements",
+        ],
+      },
   ];
 
   return (
